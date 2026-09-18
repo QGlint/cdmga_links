@@ -101,7 +101,7 @@
   {
     "songName": "FULi AUTO SHOOTER",
     "musicPack": "Chapter Legacy 过去的章节",
-    "coverUrl": "images/phigros/FULi_Phigros.png",
+    "coverUrl": "images/phigros/FULi_Phigros_2048%2A1080.png",
     "difficulties": {
       "EZ": "3",
       "HD": "9",
@@ -280,7 +280,7 @@
     "coverUrl": "images/phigros/Spasmodic.png",
     "difficulties": {
       "EZ": "8",
-      "HD": "13",
+      "HD": "12",
       "IN": "15",
       "AT": "16"
     }
@@ -403,17 +403,6 @@
       "EZ": "4",
       "HD": "11",
       "IN": "15",
-      "AT": "/"
-    }
-  },
-  {
-    "songName": "Chronos Collapse - La Campanella",
-    "musicPack": "Chapter 7 时钟链接",
-    "coverUrl": "images/phigros/CCLC_Phigros.jpeg",
-    "difficulties": {
-      "EZ": "4",
-      "HD": "12",
-      "IN": "16",
       "AT": "/"
     }
   },
@@ -929,8 +918,8 @@
     "coverUrl": "images/phigros/XING_Phigros.png",
     "difficulties": {
       "EZ": "5",
-      "HD": "9",
-      "IN": "13",
+      "HD": "10",
+      "IN": "14",
       "AT": "/"
     }
   },
@@ -1397,6 +1386,17 @@
     }
   },
   {
+    "songName": "玩具狂奏曲 -終焉-",
+    "musicPack": "Chapter EX-CHUNITHM 精选集",
+    "coverUrl": "images/phigros/玩具狂奏曲_終焉_Phigros.png",
+    "difficulties": {
+      "EZ": "8",
+      "HD": "13",
+      "IN": "16",
+      "AT": "17"
+    }
+  },
+  {
     "songName": "Xenolith",
     "musicPack": "Chapter EX-Paradigm:Reboot 精选集",
     "coverUrl": "images/phigros/Xenolith.Tatsh.png",
@@ -1437,6 +1437,17 @@
       "EZ": "7",
       "HD": "11",
       "IN": "16",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "[NWAD]",
+    "musicPack": "Chapter EX-Paradigm:Reboot 精选集",
+    "coverUrl": null,
+    "difficulties": {
+      "EZ": "5",
+      "HD": "9",
+      "IN": "15",
       "AT": "/"
     }
   },
@@ -1630,7 +1641,7 @@
   {
     "songName": "Aphrodite's Child(short ver.)",
     "musicPack": "Chapter EX-Immaculée Sekai精选集",
-    "coverUrl": "images/phigros/Aphrodite's_Child_Phigros.png",
+    "coverUrl": "images/phigros/Aphrodite's_Child_Phigros_New.png",
     "difficulties": {
       "EZ": "3",
       "HD": "8",
@@ -1696,7 +1707,7 @@
   {
     "songName": "アンビバレンス",
     "musicPack": "Chapter EX-maimai精选集",
-    "coverUrl": null,
+    "coverUrl": "images/phigros/アンビバレンス_Phigros.png",
     "difficulties": {
       "EZ": "3",
       "HD": "8",
@@ -1707,9 +1718,9 @@
   {
     "songName": "Komplexe",
     "musicPack": "Chapter EX-maimai精选集",
-    "coverUrl": null,
+    "coverUrl": "images/phigros/Komplexe_Phigros.png",
     "difficulties": {
-      "EZ": "4",
+      "EZ": "3",
       "HD": "9",
       "IN": "14",
       "AT": "/"
@@ -1718,23 +1729,133 @@
   {
     "songName": "s∅lips",
     "musicPack": "Chapter EX-maimai精选集",
-    "coverUrl": null,
+    "coverUrl": "images/phigros/Solips_Phigros.png",
     "difficulties": {
       "EZ": "7",
       "HD": "12",
-      "IN": "15",
+      "IN": "16",
       "AT": "16"
     }
   },
   {
     "songName": "QZKago Requiem",
     "musicPack": "Chapter EX-maimai精选集",
-    "coverUrl": null,
+    "coverUrl": "images/phigros/QZKago_Requiem_Phigros.png",
     "difficulties": {
       "EZ": "7",
       "HD": "13",
       "IN": "16",
       "AT": "17"
+    }
+  },
+  {
+    "songName": "Xep+ion",
+    "musicPack": "Chapter EX-Liminality精选集",
+    "coverUrl": "images/phigros/Xeption_Phigros.png",
+    "difficulties": {
+      "EZ": "2",
+      "HD": "9",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Archidoxen",
+    "musicPack": "Chapter EX-Liminality精选集",
+    "coverUrl": "images/phigros/Archidoxen_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "10",
+      "IN": "15",
+      "AT": "16"
+    }
+  },
+  {
+    "songName": "百鬼֎夜行",
+    "musicPack": "Chapter EX-Liminality精选集",
+    "coverUrl": "images/phigros/百鬼夜行_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "10",
+      "IN": "15",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Devastating History",
+    "musicPack": "Chapter EX-Liminality精选集",
+    "coverUrl": null,
+    "difficulties": {
+      "EZ": "6",
+      "HD": "11",
+      "IN": "15",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "The Whole Rest",
+    "musicPack": "Chapter EX-CYTUS II精选集",
+    "coverUrl": "images/phigros/The_Whole_Rest_Phigros.png",
+    "difficulties": {
+      "EZ": "5",
+      "HD": "9",
+      "IN": "13",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Cristalisia",
+    "musicPack": "Chapter EX-CYTUS II精选集",
+    "coverUrl": "images/phigros/Cristalisia_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "10",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Hydra",
+    "musicPack": "Chapter EX-CYTUS II精选集",
+    "coverUrl": "images/phigros/Hydra_Phigros.png",
+    "difficulties": {
+      "EZ": "6",
+      "HD": "11",
+      "IN": "15",
+      "AT": "17"
+    }
+  },
+  {
+    "songName": "Alb",
+    "musicPack": "Chapter EX-CytusII精选集",
+    "coverUrl": "images/phigros/Alb_Phigros.png",
+    "difficulties": {
+      "EZ": "3",
+      "HD": "8",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Incyde",
+    "musicPack": "Chapter EX-CytusII精选集",
+    "coverUrl": "images/phigros/Incyde_Phigros.png",
+    "difficulties": {
+      "EZ": "7",
+      "HD": "12",
+      "IN": "16",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "彩",
+    "musicPack": "Chapter EX-CytusII精选集",
+    "coverUrl": "images/phigros/彩_Phigros.png",
+    "difficulties": {
+      "EZ": "6",
+      "HD": "12",
+      "IN": "16",
+      "AT": "/"
     }
   },
   {
@@ -2048,7 +2169,7 @@
   {
     "songName": "Palescreen",
     "musicPack": "单曲精选集",
-    "coverUrl": "images/phigros/Palescreen_Phigros.png",
+    "coverUrl": "images/phigros/Palescreen_Phigros_2048%2A1080.png",
     "difficulties": {
       "EZ": "5",
       "HD": "12",
@@ -2271,8 +2392,8 @@
     "coverUrl": "images/phigros/Apocalyptic_Phigros.png",
     "difficulties": {
       "EZ": "3",
-      "HD": "9",
-      "IN": "13",
+      "HD": "10",
+      "IN": "14",
       "AT": "/"
     }
   },
@@ -2414,7 +2535,7 @@
     "coverUrl": "images/phigros/Luminescent_Phigros.png",
     "difficulties": {
       "EZ": "5",
-      "HD": "9",
+      "HD": "10",
       "IN": "14",
       "AT": "/"
     }
@@ -3018,7 +3139,7 @@
     "musicPack": "单曲精选集",
     "coverUrl": "images/phigros/ニライカナイ_Phigros.png",
     "difficulties": {
-      "EZ": "2",
+      "EZ": "3",
       "HD": "8",
       "IN": "13",
       "AT": "/"
@@ -3029,7 +3150,7 @@
     "musicPack": "单曲精选集",
     "coverUrl": "images/phigros/Beethoven_Blessing_Phigros.png",
     "difficulties": {
-      "EZ": "5",
+      "EZ": "4",
       "HD": "10",
       "IN": "15",
       "AT": "/"
@@ -3104,12 +3225,221 @@
   {
     "songName": "雪降り~雪が降っている~",
     "musicPack": "单曲精选集",
-    "coverUrl": "images/phigros/Kotoshimo_yukifuri_ry_phigros.png",
+    "coverUrl": "images/phigros/Yukifuri_yuki_ga_futte_iru_phigros.png",
     "difficulties": {
       "EZ": "1",
       "HD": "7",
       "IN": "12",
       "AT": "14"
+    }
+  },
+  {
+    "songName": "So laggy! (feat. Uzumaki)",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/So_laggy_Phigros.png",
+    "difficulties": {
+      "EZ": "5",
+      "HD": "9",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "000 -Ain Soph Aur-",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/000_Ain_Soph_Aur_Phigros.png",
+    "difficulties": {
+      "EZ": "2",
+      "HD": "8",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "BANGING STRIKE",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/BANGING_STRIKE_Phigros.png",
+    "difficulties": {
+      "EZ": "5",
+      "HD": "10",
+      "IN": "15",
+      "AT": "16"
+    }
+  },
+  {
+    "songName": "最高傑作",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/最高傑作_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "9",
+      "IN": "13",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Locomotive",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Locomotive_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "9",
+      "IN": "13",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "彼方へ、名もなき海辺より",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/彼方へ、名もなき海辺より_Phigros.png",
+    "difficulties": {
+      "EZ": "3",
+      "HD": "8",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "ABYSS MOTION 192.333",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/ABYSS_MOTION_192_333_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "9",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Xenophobia",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Xenophobia_Phigros.png",
+    "difficulties": {
+      "EZ": "6",
+      "HD": "12",
+      "IN": "14",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Verrückt",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Verrückt_Phigros.png",
+    "difficulties": {
+      "EZ": "7",
+      "HD": "12",
+      "IN": "16",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "After ZABANIYA (MUG Edit)",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/After_ZABANIYA(MUG_Edit)_Phigros.png",
+    "difficulties": {
+      "EZ": "5",
+      "HD": "10",
+      "IN": "15",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "下一秒",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/下一秒_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "8",
+      "IN": "13",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Snow Dance",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Snow_Dance_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "8",
+      "IN": "12",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "亂★舞",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/亂★舞_Phigros.png",
+    "difficulties": {
+      "EZ": "2",
+      "HD": "7",
+      "IN": "13",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Cleyera",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Cleyera_Phigros.png",
+    "difficulties": {
+      "EZ": "5",
+      "HD": "11",
+      "IN": "15",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "70 Minutes Fighters",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/70_Minutes_Fighters_Phigros.png",
+    "difficulties": {
+      "EZ": "7",
+      "HD": "12",
+      "IN": "16",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Gungnir Fracture",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Gungnir_Fracture_Phigros.png",
+    "difficulties": {
+      "EZ": "6",
+      "HD": "11",
+      "IN": "16",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "夢の降る日に",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/夢の降る日に_Phigros.png",
+    "difficulties": {
+      "EZ": "2",
+      "HD": "9",
+      "IN": "16",
+      "AT": "/"
+    }
+  },
+  {
+    "songName": "Der Schneid",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/Der_Schneid_Phigros.png",
+    "difficulties": {
+      "EZ": "7",
+      "HD": "12",
+      "IN": "16",
+      "AT": "17"
+    }
+  },
+  {
+    "songName": "星拂云锦 feat. koi",
+    "musicPack": "单曲精选集",
+    "coverUrl": "images/phigros/星拂云锦_Phigros.png",
+    "difficulties": {
+      "EZ": "4",
+      "HD": "9",
+      "IN": "15",
+      "AT": "/"
     }
   },
   {
